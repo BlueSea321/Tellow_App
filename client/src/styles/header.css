@@ -1,0 +1,50 @@
+.navbar-style {
+    background-color: #0d777c;
+}
+
+.header-logo {
+    text-transform: uppercase;
+}
+
+.logo-image {
+    width: 200px;
+    height: 40px;
+}
+
+.logo-svg {
+    width: 38px;
+    height: 46px;
+    color: red;
+    margin-right: 5px;
+    transform: rotateZ(20deg);
+}
+
+.select-lang {
+    cursor: pointer;
+}
+
+.search-btn {
+    background-color: #00a843 !important;
+    border: 0px !important;
+}
+
+.search-icon {
+    width: 24px;
+    height: 24px;
+}
+
+.social-icon {
+    width: 24px;
+    height: 24px;
+}
+
+@media (max-width: 450px) {
+    .logo-svg {
+        display: none;
+    }
+
+    .logo-image {
+        width: 120px;
+        height: 24px;
+    }
+}

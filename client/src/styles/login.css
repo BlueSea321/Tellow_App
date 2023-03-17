@@ -1,0 +1,72 @@
+.loginBtn_group {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.register_contain {
+  width: 500px;
+}
+
+.google_btn {
+  background: url('https://www.tellows.com/images/openid-providers-en-new.png');
+  background-position: 0px 0px;
+}
+
+.openId_btn {
+  width: 100px;
+  height: 60px;
+  border: 1px solid #DDD;
+  margin: 3px;
+  float: left;
+}
+
+.gradient-custom-3 {
+  /* fallback for old browsers */
+  background: #84fab0;
+
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: -webkit-linear-gradient(to right, rgba(132, 250, 176, 0.5), rgba(143, 211, 244, 0.5));
+
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: linear-gradient(to right, rgba(132, 250, 176, 0.5), rgba(143, 211, 244, 0.5))
+}
+
+.gradient-custom-4 {
+  /* fallback for old browsers */
+  background: #84fab0;
+
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: -webkit-linear-gradient(to right, rgba(132, 250, 176, 1), rgba(143, 211, 244, 1));
+
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: linear-gradient(to right, rgba(132, 250, 176, 1), rgba(143, 211, 244, 1))
+}
+
+.signin_form {
+  width: 100%;
+  border-radius: 20px;
+  padding: 20px;
+  margin: 50px 0px;
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 20px 30px;
+}
+
+.login_submit {
+  float: right;
+}
+
+.load_spinner {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 50px auto;
+}
+
+.verify_box {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 20px 30px;
+}

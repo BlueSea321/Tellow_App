@@ -1,0 +1,74 @@
+input[type="range"] {
+  -webkit-appearance: none;
+  margin: 29px 0;
+  height: 20px;
+  border-radius: 5px;
+  background-image: linear-gradient(to right, #3df704, #f8260a);
+  background-repeat: no-repeat;
+}
+
+input[type="range"]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  height: 56px;
+  width: 58px;
+  border: 1px solid rgb(11, 94, 15);
+  border-radius: 22px;
+  background: url('https://www.tellows.com/css/bootstrap-resp/8d50d0ef11ba0193f8d3.png');
+  cursor: ew-resize;
+  margin-top: -24px;
+}
+
+input.test1[type="range"]::-webkit-slider-thumb {
+  background-position: 4px -29px;
+}
+
+input.test2[type="range"]::-webkit-slider-thumb {
+  background-position: 3px -81px;
+}
+
+input.test3[type="range"]::-webkit-slider-thumb {
+  background-position: 3px -133px;
+}
+
+input.test4[type="range"]::-webkit-slider-thumb {
+  background-position: 3px -185px;
+}
+
+input.test5[type="range"]::-webkit-slider-thumb {
+  background-position: 3px -237px;
+}
+
+input.test6[type="range"]::-webkit-slider-thumb {
+  background-position: 3px -289px;
+}
+
+input.test7[type="range"]::-webkit-slider-thumb {
+  background-position: 3px -341px;
+}
+
+input.test8[type="range"]::-webkit-slider-thumb {
+  background-position: 3px -393px;
+}
+
+input.test9[type="range"]::-webkit-slider-thumb {
+  background-position: 3px -445px;
+}
+
+input[type=range]::-webkit-slider-runnable-track {
+  -webkit-appearance: none;
+  box-shadow: none;
+  border: none;
+  background: transparent;
+}
+
+.phone_detail {}
+
+.card_image {
+  width: 100px;
+  height: 107px;
+  float: right;
+}
+
+.card_content {
+  float: left;
+}

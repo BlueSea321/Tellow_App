@@ -1,0 +1,15 @@
+.userarea_home {
+    position: relative;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.update_content {
+    
+}
+
+@media (max-width: 699px) {
+    .userarea_content {
+        padding-left: 64px !important;
+    }
+}

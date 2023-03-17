@@ -1,0 +1,29 @@
+.contact_box {
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 20px;
+    background-color: rgb(197, 197, 197);
+}
+
+.faqs_title {
+    cursor: pointer;
+}
+
+.privacy_box {
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 20px;
+    background-color: rgb(197, 197, 197);
+}
+
+.privacy_box p {
+    margin-bottom: 2rem;
+}
+
+.contact_box select {
+    background-color: rgb(136, 136, 136);
+}
+
+.contact_box button {
+    width: 100px !important;
+}

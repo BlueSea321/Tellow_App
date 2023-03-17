@@ -1,0 +1,354 @@
+{
+  "callertype": {
+    "text1": "Unknown",
+    "text2": "Trustworthy number",
+    "text3": "Sweepstakes, lottery",
+    "text4": "Debt collection company",
+    "text5": "Aggressive advertising",
+    "text6": "Survey",
+    "text7": "Harassment calls",
+    "text8": "Cost trap",
+    "text9": "Telemarketer",
+    "text10": "Ping Call",
+    "text11": "SMS spam"
+  },
+  "component": {
+    "adminSideBar": {
+      "home": "Home",
+      "userManage": "User Manage",
+      "phoneManage": "Phones Manage",
+      "commentManage": "Comments Manage"
+    },
+    "userSideBar": {
+      "home": "Home",
+      "comment": "My Comments",
+      "setting": "Profile"
+    },
+    "confirmModal": {
+      "title": "Notification",
+      "body": "Do you really remove this user?",
+      "cancel": "Cancel",
+      "confirm": "Confirm"
+    },
+    "footer": {
+      "text1": "Your phone is ringing and you don't know who is calling?",
+      "text2": "tellows provides information to identify trustworthy or potential risk calls - thanks to our worldwide community.",
+      "productTitle": "Products",
+      "productContent1": "API – Partnership Program",
+      "productContent2": "Landline / FRITZ!Box",
+      "productContent3": "Partner",
+      "productContent4": "Apps",
+      "productContent5": "Member Area",
+      "aboutTitle": "About tellows",
+      "aboutContent1": "Statistics",
+      "aboutContent2": "Contact",
+      "aboutContent3": "Privacy Policy",
+      "aboutContent4": "Terms of Use",
+      "aboutContent5": "Imprint",
+      "mediaTitle": "News & Media",
+      "mediaContent1": "Blog",
+      "mediaContent2": "Press",
+      "mediaContent3": "Magazine"
+    },
+    "header": {
+      "logout": "Logout",
+      "login": "Login",
+      "adminarea": "AdminArea",
+      "userarea": "UserArea",
+      "contact": "Contact",
+      "privacy": "Privacy Policy",
+      "english": "English",
+      "italian": "Italian",
+      "placeHolder": "Enter number"
+    }
+  },
+  "page": {
+    "adminarea": {
+      "commentManage": {
+        "colName1": "PhoneNumber",
+        "colName2": "Score",
+        "colName3": "Username",
+        "colName4": "CreatedDate",
+        "placeHolder": "Filter by phone number",
+        "content": "Content:",
+        "number": "Number:",
+        "score": "Score:",
+        "callername": "Callername:",
+        "callertype": "Callertype:",
+        "callertypeid": "Callertypeid:",
+        "username": "Username:",
+        "createdDate": "CreatedDate:",
+        "remove": "Remove"
+      },
+      "home": {
+        "title": "Admin Panel",
+        "userStatusTitle": "User Status",
+        "userStatusContent1": "Total Users",
+        "userStatusContent2": "Verified Users",
+        "userStatusContent3": "Unverified Users",
+        "phoneStatusTitle": "Phone Status",
+        "phoneStatusContent1": "Total Phones",
+        "commentStatusTitle": "Comment Status",
+        "commentStatusContent1": "Total Comments"
+      },
+      "phones": {
+        "colName1": "PhoneNumber",
+        "colName2": "Score",
+        "colName3": "Comments",
+        "placeHolder": "Filter by phone number",
+        "number": "Number:",
+        "score": "Score:",
+        "callername": "Callername:",
+        "callertype": "Callertype:",
+        "callertypeid": "Callertypeid:",
+        "prefix": "Prefix:",
+        "prefixname": "Prefixname:",
+        "comments": "Comments:",
+        "lastComments": "Lastcomments:"
+      },
+      "users": {
+        "colName1": "Username",
+        "colName2": "Email",
+        "colName3": "Status",
+        "placeHolder": "Filter by username",
+        "username": "Username:",
+        "email": "Email:",
+        "status": "Status",
+        "suspend": "Suspend",
+        "active": "Active",
+        "remove": "Remove",
+        "verifyStatus1": "Suspend",
+        "verifyStatus2": "Active"
+      }
+    },
+    "contact": {
+      "title": "Contact | Support | FAQs",
+      "optionTitle": "Please select your problem / request",
+      "optionContent1": "Please Choose",
+      "optionContent2": "Change/Remove Entries or Comments",
+      "optionContent3": "Caller Info/Website Problem",
+      "optionContent4": "Press/Cooperations",
+      "commentOption": {
+        "title": "Choose Option(required)",
+        "optionContent1": "Business Entry",
+        "optionContent2": "Comments",
+        "business": {
+          "faq1": {
+            "quiz": "How can I update my business entry?",
+            "ans": "You can make changes to a company entry on our website independently at any time by directly navigating to the tellows website with your phone number and clicking the pen symbol at the 'Details about this number' box. Company entries can only be added to numbers that have no rating above 7."
+          },
+          "faq2": {
+            "quiz": "How can I remove my business entry?",
+            "ans": "You can remove your company entry on our website at any time by directly navigating to the tellows website with your phone number and clicking the pen symbol at the 'Details about this number' box. At the bottom of the page you can check the box for the entry removal and enter the captcha. After clicking Save the entry is removed.<br><br> Even though it will be removed on tellows immediately, please be aware that it can take some weeks until the cached information is not visible in search engines anymore."
+          },
+          "faq3": {
+            "quiz": "My entry is locked - what can I do?",
+            "ans": "On our site, your company entry is blocked for editing because it is either a premium entry or it was added by one of our data partners that manages entries for you. When you click the edit button on the entry, you can see on top of the page a message that explains whether it was a partner entry or a premium entry. <br><br> Premium entries can only be edited by tellows, so please get in touch with us via the contact form below. Partner entries have to be updated or removed by our partner otherwise the entry might get uploaded again. Please contact the partner company for adjustments on this entry."
+          }
+        },
+        "comments": {
+          "faq1": {
+            "quiz": "Why is my number rated?",
+            "ans": "tellows does not automatically collect data and names from your phone number. The database initially includes every possible telephone number. As soon as someone enters a number combination on tellows, it is recognized as a potential telephone number and exists with a unique URL."
+          },
+          "faq2": {
+            "quiz": "Is it legal?",
+            "ans": "On the tellows, we offer people a forum to find and exchange telephone numbers. We have no information about which person is behind a phone number. The goal of our project is to protect people from unwanted calls. With the help of our tellows score, users can rate numbers and also have the option to leave a comment. <br /><br /> The phone number is assigned to a company at the earliest with a comment or a business entry. Company-related data - i.e. data of a legal person - are not protected by law insofar as they are publicly accessible. However, the comments can be deleted and checked if we receive a reason for deleting the respective comments. An examination is then carried out immediately. <br /><br /> Since over 1000 new comments are posted on tellows every day, we are grateful if we are informed of a possible breach of law in the comments so that we can investigate them. In consideration of the BGH judgment of August 17, 2011 (pen perfume), however, we ask for a reason to remove this comment. <br /><br /> You also have the opportunity to comment on the negative comments on tellows. This is placed on top of the others so that tellows users can be informed proactively."
+          },
+          "faq3": {
+            "quiz": "What can I do?",
+            "ans": "If you feel that ratings or comments about your number is wrong or defamator and shall be removed, please get in touch with us and provide the following details in the contact form. Please be aware that we don't remove content without a reasonable explanation."
+          }
+        },
+        "solveTitle": "Problem solved?",
+        "solveOption1": "Please Select",
+        "solveOption2": "Yes",
+        "solveOption3": "No",
+        "great": "Great",
+        "solveForm": {
+          "title": "Please send us an email with your details!",
+          "label1": "Your name(required)",
+          "label2": "Your email(required)",
+          "label3": "Phone number?(required)",
+          "label4": "Your message(required)",
+          "part1": "I have taken note of the",
+          "part2": "privacy policy",
+          "part3": "I agree that the information may be used for answering the inquiry or for further inquiries. The request is sent to the server in encrypted form via https.",
+          "send": "send",
+          "sending": "sending..."
+        }
+      },
+      "problemOption": {
+        "title": "Choose problem",
+        "optionContent1": "Information Request about a Number",
+        "optionContent2": "I have been scammed-what can I do?",
+        "optionContent3": "How did the caller get my number?",
+        "optionContent4": "I want to report a bug",
+        "optionContent5": "I want my account to be removed",
+        "request": {
+          "part1": "tellows you can see if other people have shared their experiences with the number that called you. Simply visit tellows and search for the number (if possible with international prefix). You will see all available information shared by the community such as the caller name, rating, caller type and comments. If no information is available it seems like the number has not called many people yet. You can add further information to help and warn others.",
+          "part2": "tellows is a platform to share information about phone numbers of public interest. If you have been called by a company or call center, it is more likely that reliable details about the caller exist on tellows. For private phone numbers there is only a small chance that information is available. Please be aware that tellows cannot provide a report on people or companies. All data on tellows is collected by the community and cannot be verified by tellows.",
+          "part3": "In addition to reading the information posted by other users at tellows, we recommend trying telephone directories as some companies or people may have provided their information to public listing. Since the information provided on telephone directories can vary, it is always advised to use multiple resources to gain accurate results."
+        },
+        "scamm": {
+          "part1": "Do you already have information about the number? On tellows you can see if other people have shared their experiences with the number by searching for it. You can add further information to help and warn others.",
+          "part2": "Have you provided personal information or have you signed contracts? You should try to cancel your contract as soon as possible. If you receive a mail from the company that called you with invoice or contract info, you should cancel the contract immediately. If you have provided bank account details, you may need to contact your bank and keep an eye on the transactions on the account. If you have passed on personal data to e.g. Sweepstakes operators, you should be careful when you get more calls soon. These operators are often only address dealers and sell the data on to give other fraudsters the opportunity to contact you.",
+          "part3": "In many countries the government offers possibilities to report phone spam and fraud (e.g. Ofcom or FCC). You should report the number to your federal network agency.",
+          "part4": "Please be aware that tellows cannot provide a report on people or companies. All data on tellows is collected by the community and cannot be verified by tellows."
+        },
+        "getNumber": {
+          "part1": "It is possible that your number was automatically dialed by computers using dialers and by accepting the call, the number was registered in the system as assigned. As a result, the number is called again and often passed on via address dealers. The number also may have been used for online forms or sweepstakes and therefore other companies got access to it.",
+          "part2": "Once the number is known, it is very likely that it will be resold and that further calls from different companies will follow.",
+          "part3": "You should report the number to the Federal Network Agency so that it will hopefully be switched off in the foreseeable future. Blocking the number is also possible in most telephone systems. For mobile protection we suggest the tellows apps for Android and iOS. For the fixed network, we also offer solutions against unknown calls in our shop."
+        },
+        "report": {
+          "content": "We are happy if you inform us about any misbehaviour or problems with the website. In order to fix problems fast, please be specific about your problem. It is always helpful if you can tell us which device, browser, URL you vistied and if the problem occur over several pages and how many times you tried to perfrom a certain action. Thank you. Please send us an email with your details!",
+          "reportForm": {
+            "label1": "Your name(required)",
+            "label2": "Your email(required)",
+            "label3": "Details about the problem(required)",
+            "label4": "Your message(required)",
+            "part1": "I have taken note of the",
+            "part2": "privacy policy",
+            "part3": "I agree that the information may be used for answering the inquiry or for further inquiries. The request is sent to the server in encrypted form via https.",
+            "send": "send",
+            "sending": "sending..."
+          }
+        },
+        "remove": {
+          "content": "If you want us to remove your tellows community account, please tell us your email address that you used for registering and on which platforms you registered e.g. website or shop. Please send us an email with your details!",
+          "removeForm": {
+            "label1": "Your name(required)",
+            "label2": "Your email(required)",
+            "label3": "The email address that you used to register(if different from your current email)",
+            "label4": "Where did you register? e.g. shop, website(required)",
+            "label5": "Your message(required)",
+            "part1": "I have taken note of the",
+            "part2": "privacy policy",
+            "part3": "I agree that the information may be used for answering the inquiry or for further inquiries. The request is sent to the server in encrypted form via https.",
+            "send": "send",
+            "sending": "sending..."
+          }
+        }
+      },
+      "cooperationOption": {
+        "part1": "We look forward to your message for any cooperation.",
+        "part2": "We can publish sponsored posts on our blog. The topics are in the area of telephony and consumer protection. You are welcome to send us the exact topic proposal and we will discuss the further details. More information can be found here:",
+        "part3": "Please send us an email with your details!",
+        "form": {
+          "label1": "Your name(required)",
+          "label2": "Your email(required)",
+          "label3": "Your message(required)",
+          "part1": "I have taken note of the",
+          "part2": "privacy policy",
+          "part3": "I agree that the information may be used for answering the inquiry or for further inquiries. The request is sent to the server in encrypted form via https.",
+          "send": "send",
+          "sending": "sending..."
+        }
+      },
+      "blankOption": {
+        "content": "Please choose your topic to find all available information and help"
+      }
+    },
+    "privacy": {
+
+    },
+    "auth": {
+      "login": {
+        "errMsg": "Error!",
+        "suspendMsg": "Your account was suspended!",
+        "wrongPwdMsg": "Please enter correct password",
+        "notExistMsg": "User does not exist",
+        "signIn": "Sign In",
+        "placeHolder1": "Enter email",
+        "placeHolder2": "Enter password",
+        "remember": "Remember me",
+        "submit": "Submit",
+        "register": "Register now"
+      },
+      "logout": "Logout",
+      "signUp": {
+        "errMsg": "Error!",
+        "emailDuplicateMsg": "Email is already in use.",
+        "signUp": "Sign Up",
+        "placeHolder1": "Enter username",
+        "placeHolder2": "Enter email",
+        "placeHolder3": "Enter password",
+        "remember": "Remember me",
+        "submit": "Submit",
+        "query": "Have an account?",
+        "login": "Log in"
+      },
+      "verification": {
+        "sentMsg": "Sent",
+        "errMsg": "Error!",
+        "wrongMsg": "Something went wrong!",
+        "content1": "Almost there,",
+        "content2": "Check your email to verify your account.",
+        "resend": "Resend email"
+      }
+    },
+    "userarea": {
+      "comments": {
+        "title": "My Comments",
+        "edit": "edit",
+        "remove": "remove",
+        "editTitle": "Edit comment",
+        "label1": "Your rating:",
+        "label2": "Caller name/company:",
+        "label3": "Type of call / reason for calling:",
+        "label4": "Your name / pseudonym:",
+        "label5": "Comment:",
+        "submit": "Submit rating"
+      },
+      "home": {
+        "title": "Member Area",
+        "welcome": "Welcome to your personal area of tellows!",
+        "text1": "Here you can",
+        "category1": "manage your comments",
+        "category2": "edit your settings such as notifications and nickname",
+        "category3": "download your personal phone blacklist or connect it to other applications"
+      },
+      "setting": {
+        "title": "User Profile",
+        "sTitle": "Personal Settings",
+        "username": "Username",
+        "email": "User Email",
+        "save": "Save"
+      }
+    },
+    "home": {
+      "introTitle": "Your phone is ringing and you don't know who is calling?",
+      "introContent": "tellows provides information to identify trustworthy or potential risk calls - thanks to our worldwide community.",
+      "placeHolder1": "Enter number",
+      "text1": "We categorise calls by type (debt collection, serious number, sweepstakes, etc.) and give the number in question a tellows score, which indicates whether a number is trustworthy or suspicious, helping you to decide whether or not to take the call.",
+      "unwantedTitle": "New unwanted phone numbers",
+      "unwantedContent1": "On tellows, thousands of phone numbers are reported by the community every day. Here you can find phone numbers that were reported for the first time and were classified as unwanted.",
+      "noData": "No datas",
+      "recentTitle": "Recently added comments"
+    },
+    "searcharea": {
+      "unCorrectMsg": "Please enter correct phone number",
+      "wrongMsg": "Something went wrong!",
+      "invalidMsg": "Invalid phone number",
+      "detailTitle": "Details about this number",
+      "label1": "Types of call:",
+      "label2": "Caller Name:",
+      "text1": "No ratings have been added to this number yet.",
+      "label3": "City:",
+      "country": "Italy",
+      "label4": "International:",
+      "text2": "To continue,",
+      "login": "login",
+      "text3": "here.",
+      "newCommentTitle": "Rating to",
+      "newCommentLabel1": "Caller name / company:",
+      "radio1": "unknown",
+      "radio2": "enter caller name",
+      "newCommentLabel2": "Type of call / reason for calling:",
+      "newCommentLabel3": "Comments:",
+      "submitting": "Submitting...",
+      "submit": "Submit"
+    }
+  }
+}

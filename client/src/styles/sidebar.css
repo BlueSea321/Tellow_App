@@ -1,0 +1,9 @@
+.userarea_sidebar {
+    background-color: #155ab0;
+}
+
+@media (max-width: 699px) {
+    .userarea_sidebar {
+        min-width: 100% !important;
+    }
+}
